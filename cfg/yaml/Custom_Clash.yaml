@@ -725,12 +725,12 @@ rule-providers:
     behavior: domain
     interval: 10800
     type: http
-    url: "https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rules@main/rule/Bilibili_Domain.mrs"
+    url: "https://testingcf.jsdelivr.net/gh/vulcanozz/Custom_OpenClash_Rules@main/rule/Bilibili_Domain.mrs"
     format: mrs
 
   Bilibili_IP:
     behavior: ipcidr
     interval: 10800
     type: http
-    url: "https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rules@main/rule/Bilibili_IP.mrs"
+    url: "https://testingcf.jsdelivr.net/gh/vulcanozz/Custom_OpenClash_Rules@main/rule/Bilibili_IP.mrs"
     format: mrs
