@@ -1,0 +1,28 @@
+# Generated from rule/Bilibili.list
+# REPO: https://github.com/vulcanozz/Custom_OpenClash_Rules
+# SOURCE: https://github.com/vulcanozz/Custom_OpenClash_Rules/blob/main/rule/Bilibili.list
+# TOTAL: 22
+
+payload:
+  - '+.acg.tv'
+  - '+.acgvideo.com'
+  - '+.b23.tv'
+  - '+.bigfun.cn'
+  - '+.bigfunapp.cn'
+  - '+.biliapi.com'
+  - '+.biliapi.net'
+  - '+.bilibili.com'
+  - '+.bilibili.tv'
+  - '+.biligame.com'
+  - '+.biligame.net'
+  - '+.bilivideo.cn'
+  - '+.bilivideo.com'
+  - '+.hdslb.com'
+  - '+.im9.com'
+  - '+.smtcdns.net'
+  - 'apiintl.biliapi.net'
+  - 'p-bstarstatic.akamaized.net'
+  - 'p.bstarstatic.com'
+  - 'upos-bstar-mirrorakam.akamaized.net'
+  - 'upos-bstar1-mirrorakam.akamaized.net'
+  - 'upos-hz-mirrorakam.akamaized.net'
