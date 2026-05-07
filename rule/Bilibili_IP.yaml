@@ -1,0 +1,16 @@
+# Generated from rule/Bilibili.list
+# REPO: https://github.com/vulcanozz/Custom_OpenClash_Rules
+# SOURCE: https://github.com/vulcanozz/Custom_OpenClash_Rules/blob/main/rule/Bilibili.list
+# TOTAL: 10
+
+payload:
+  - '119.29.29.29/32'
+  - '128.1.62.200/32'
+  - '128.1.62.201/32'
+  - '150.116.92.250/32'
+  - '164.52.76.18/32'
+  - '203.107.1.33/32'
+  - '203.107.1.34/32'
+  - '203.107.1.65/32'
+  - '203.107.1.66/32'
+  - '45.43.32.234/32'
